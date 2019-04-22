@@ -4,7 +4,7 @@ import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
 import com.android.warefly.db.models.Recipe
-import com.android.warefly.db.RecipeRepository
+import com.android.warefly.db.repository.RecipeRepository
 import com.android.warefly.db.RecipeRoomDatabase
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers

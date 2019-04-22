@@ -1,7 +1,8 @@
-package com.android.warefly.db
+package com.android.warefly.db.repository
 
 import androidx.lifecycle.LiveData
 import androidx.annotation.WorkerThread
+import com.android.warefly.db.dao.RecipeDao
 import com.android.warefly.db.models.Recipe
 
 class RecipeRepository(private val recipeDao: RecipeDao) {

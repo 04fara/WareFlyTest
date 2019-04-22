@@ -4,7 +4,7 @@ import androidx.arch.core.executor.testing.InstantTaskExecutorRule
 import androidx.room.Room
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
-import com.android.warefly.db.RecipeDao
+import com.android.warefly.db.dao.RecipeDao
 import com.android.warefly.db.RecipeRoomDatabase
 import com.android.warefly.db.models.Recipe
 import junit.framework.Assert.assertEquals

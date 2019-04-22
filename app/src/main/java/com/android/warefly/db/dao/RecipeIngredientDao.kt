@@ -1,4 +1,4 @@
-package com.android.warefly.db
+package com.android.warefly.db.dao
 
 import androidx.lifecycle.LiveData
 import androidx.room.Dao

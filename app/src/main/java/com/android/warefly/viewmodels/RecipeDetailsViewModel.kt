@@ -3,7 +3,7 @@ package com.android.warefly.viewmodels
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
-import com.android.warefly.db.RecipeIngredientRepository
+import com.android.warefly.db.repository.RecipeIngredientRepository
 import com.android.warefly.db.RecipeRoomDatabase
 import com.android.warefly.db.models.RecipeIngredient
 import kotlinx.coroutines.CoroutineScope
