@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WareflyTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_word">Recipe name</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Recipe not saved, incorrect data.</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="title">title</string>
+    <string name="imagestep">imageStep</string>
+    <string name="add_to_list">+ Add to my list</string>
+    <string name="lets_proceed">&#10687; Let\'s proceed &#10687;</string>
+</resources>
